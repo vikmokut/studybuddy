@@ -1,0 +1,11 @@
+torch
+transformers
+numpy
+sounddevice
+webrtcvad
+PyQt5
+matplotlib
+scipy
+# git+https://github.com/openai/whisper.git
+git+https://github.com/coqui-ai/TTS.git
+git+https://github.com/m-bain/whisper
